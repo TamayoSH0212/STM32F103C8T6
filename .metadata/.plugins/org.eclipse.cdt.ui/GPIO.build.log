@@ -1,0 +1,10 @@
+18:00:49 **** Build of configuration Debug for project GPIO ****
+make -j3 all 
+arm-none-eabi-size  GPIO.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4728	     20	   1572	   6320	   18b0	GPIO.elf
+Finished building: default.size.stdout
+ 
+
+18:00:50 Build Finished. 0 errors, 0 warnings. (took 801ms)
+

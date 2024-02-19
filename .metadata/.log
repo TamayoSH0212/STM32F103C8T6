@@ -1,0 +1,140 @@
+!SESSION 2023-12-19 22:33:38.071 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_419
+Framework arguments:  -keyring /Users/hectortamayo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/hectortamayo/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-19 22:36:54.862
+!MESSAGE Log4j2 initialized with config file /Users/hectortamayo/STM32CubeIDE/workspace_1.14.0/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-19 22:37:14.074
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-19 22:37:21.509
+!MESSAGE ProjectImporter: already registered
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-19 23:20:04.477
+!MESSAGE Indexed 'Blink' (20 sources, 79 headers) in 4.57 sec: 3,651 declarations; 13,386 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-19 23:34:21.193
+!MESSAGE Indexed 'Blink' (20 sources, 79 headers) in 2.6 sec: 3,651 declarations; 13,386 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2024-02-04 18:43:42.780 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_419
+Framework arguments:  -keyring /Users/hectortamayo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/hectortamayo/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-02-04 18:43:55.709
+!MESSAGE Log4j2 initialized with config file /Users/hectortamayo/STM32CubeIDE/workspace_1.14.0/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-04 18:44:18.958
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-04 18:52:02.121
+!MESSAGE Indexed 'Proyecto_1' (17 sources, 78 headers) in 6.43 sec: 3,643 declarations; 13,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-04 20:12:33.643
+!MESSAGE Indexed 'Blink' (17 sources, 78 headers) in 3.16 sec: 3,643 declarations; 13,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-05 02:07:35.873
+!MESSAGE Indexed 'GPIO' (17 sources, 78 headers) in 2.95 sec: 3,643 declarations; 13,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2024-02-06 13:22:46.685 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_419
+Framework arguments:  -keyring /Users/hectortamayo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/hectortamayo/.eclipse_keyring
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-02-06 16:27:09.572
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-02-06 16:27:16.211
+!MESSAGE Log4j2 initialized with config file /Users/hectortamayo/STM32CubeIDE/workspace_1.14.0/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-06 16:27:43.231
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-06 23:17:35.212
+!MESSAGE Indexed 'Timers' (17 sources, 78 headers) in 5.95 sec: 3,643 declarations; 13,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2024-02-08 08:07:21.387 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_419
+Framework arguments:  -keyring /Users/hectortamayo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/hectortamayo/.eclipse_keyring
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-02-08 09:39:11.665
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-02-08 09:39:17.326
+!MESSAGE Log4j2 initialized with config file /Users/hectortamayo/STM32CubeIDE/workspace_1.14.0/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-08 09:39:42.652
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-08 10:10:28.601
+!MESSAGE Indexed 'Contaor_Antirrebote' (17 sources, 78 headers) in 4.93 sec: 3,643 declarations; 13,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-09 02:49:57.102
+!MESSAGE Indexed 'Display_Contador' (17 sources, 78 headers) in 2.97 sec: 3,643 declarations; 13,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-09 03:23:17.913
+!MESSAGE Indexed 'Display_0_99' (17 sources, 78 headers) in 2.82 sec: 3,643 declarations; 13,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2024-02-09 12:09:08.553 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_419
+Framework arguments:  -keyring /Users/hectortamayo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/hectortamayo/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-02-09 12:09:21.363
+!MESSAGE Log4j2 initialized with config file /Users/hectortamayo/STM32CubeIDE/workspace_1.14.0/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-09 12:09:51.421
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-02-09 23:09:19.132 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_419
+Framework arguments:  -keyring /Users/hectortamayo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/hectortamayo/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-02-09 23:09:45.650
+!MESSAGE Log4j2 initialized with config file /Users/hectortamayo/STM32CubeIDE/workspace_1.14.0/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-09 23:10:08.964
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-02-09 23:16:12.451 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_419
+Framework arguments:  -keyring /Users/hectortamayo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/hectortamayo/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-02-09 23:16:41.073
+!MESSAGE Log4j2 initialized with config file /Users/hectortamayo/STM32CubeIDE/workspace_1.14.0/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-09 23:17:13.160
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-02-15 18:19:07.214 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_419
+Framework arguments:  -keyring /Users/hectortamayo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/hectortamayo/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-02-15 18:19:20.180
+!MESSAGE Log4j2 initialized with config file /Users/hectortamayo/STM32CubeIDE/workspace_1.14.0/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-15 18:19:50.676
+!MESSAGE Started RMI Server, listening on port 41337
