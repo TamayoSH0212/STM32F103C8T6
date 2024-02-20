@@ -1,17 +1,21 @@
-13:01:14 **** Incremental Build of configuration Debug for project Display_Contador ****
+19:46:01 **** Incremental Build of configuration Debug for project I2C ****
 make -j3 all 
+arm-none-eabi-gcc "../Core/Src/Anglas_LCD_I2C.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/Anglas_LCD_I2C.d" -MT"Core/Src/Anglas_LCD_I2C.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/Anglas_LCD_I2C.o"
+make: Warning: File '../Core/Src/Anglas_LCD_I2C.c' has modification time 9446 s in the future
 arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
-arm-none-eabi-gcc -o "Display_Contador.elf" @"objects.list"   -mcpu=cortex-m3 -T"/Users/hectortamayo/STM32CubeIDE/workspace_1.14.0/Display_Contador/STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Display_Contador.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: Display_Contador.elf
+arm-none-eabi-gcc -o "I2C.elf" @"objects.list"   -mcpu=cortex-m3 -T"/Users/hectortamayo/STM32CubeIDE/workspace_1.14.0/I2C/STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="I2C.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: I2C.elf
  
-arm-none-eabi-size  Display_Contador.elf 
-arm-none-eabi-objdump -h -S Display_Contador.elf  > "Display_Contador.list"
-arm-none-eabi-objcopy  -O ihex Display_Contador.elf  "Display_Contador.hex"
+arm-none-eabi-size  I2C.elf 
+arm-none-eabi-objdump -h -S I2C.elf  > "I2C.list"
+arm-none-eabi-objcopy  -O ihex I2C.elf  "I2C.hex"
    text	   data	    bss	    dec	    hex	filename
-   4976	     32	   1576	   6584	   19b8	Display_Contador.elf
+  25712	    476	   2060	  28248	   6e58	I2C.elf
 Finished building: default.size.stdout
  
-Finished building: Display_Contador.hex
+arm-none-eabi-objdump: Warning: source file /Users/hectortamayo/STM32CubeIDE/workspace_1.14.0/I2C/Debug/../Core/Src/Anglas_LCD_I2C.c is more recent than object file
+Finished building: I2C.hex
  
-Finished building: Display_Contador.list
+Finished building: I2C.list
  
+make: warning:  Clock skew detected.  Your build may be incomplete.
